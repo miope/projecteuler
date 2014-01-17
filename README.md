@@ -1,0 +1,1 @@
+My take on solving problems from [Project Euler] [http://projecteuler.net/problems] with .NET and LINQ 
